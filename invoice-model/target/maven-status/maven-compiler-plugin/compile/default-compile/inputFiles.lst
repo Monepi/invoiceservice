@@ -1,4 +1,10 @@
+/Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/repositories/UserRepository.java
+/Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/entities/User.java
 /Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/repositories/InvoiceRepository.java
 /Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/entities/LineItem.java
+/Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/repositories/AddressRepository.java
+/Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/entities/Address.java
+/Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/repositories/ContactRepository.java
 /Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/entities/Invoice.java
 /Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/repositories/LineItemRepository.java
+/Users/simonmohoalali/Desktop/invoice/invoice-model/src/main/java/za/co/digitalplatoon/invoiceservice/invoice/model/entities/Contact.java

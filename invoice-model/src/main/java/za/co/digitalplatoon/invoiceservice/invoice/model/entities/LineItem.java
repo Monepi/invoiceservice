@@ -16,7 +16,7 @@ import java.math.BigDecimal;
 public class LineItem {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE)
+    @GeneratedValue
     private Long id;
 
     @Column

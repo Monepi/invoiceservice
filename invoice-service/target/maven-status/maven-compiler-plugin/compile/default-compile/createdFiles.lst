@@ -1,8 +1,11 @@
 za/co/digitalplatoon/invoiceservice/invoice/srvc/controllers/dto/InvoiceResponseDTO.class
 za/co/digitalplatoon/invoiceservice/invoice/srvc/services/InvoiceI.class
+za/co/digitalplatoon/invoiceservice/invoice/srvc/controllers/InvoiceController.class
+za/co/digitalplatoon/invoiceservice/invoice/srvc/controllers/UserController.class
+za/co/digitalplatoon/invoiceservice/invoice/srvc/services/UserService.class
+za/co/digitalplatoon/invoiceservice/invoice/srvc/services/UserServiceI.class
 za/co/digitalplatoon/invoiceservice/invoice/srvc/services/InvoiceService.class
 za/co/digitalplatoon/invoiceservice/invoice/srvc/controllers/dto/InvoiceRequest.class
-za/co/digitalplatoon/invoiceservice/invoice/srvc/controllers/InvoiceController.class
 za/co/digitalplatoon/invoiceservice/invoice/srvc/InvoiceApplication.class
 za/co/digitalplatoon/invoiceservice/invoice/srvc/controllers/dto/InvoiceRequestDTO.class
 za/co/digitalplatoon/invoiceservice/invoice/srvc/configuration/SwaggerConfig.class
